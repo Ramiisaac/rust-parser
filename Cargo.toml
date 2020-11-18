@@ -1,0 +1,13 @@
+[package]
+name = "rust-parser-assignment-01"
+version = "0.1.0"
+authors = ["Carlos R. Arias <arias@spu.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1"
+lazy_static = "1.4.0"
+strum = "0.19.5"
+string_template = "0.2.1"
